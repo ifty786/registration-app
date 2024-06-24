@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to My Registration Page</h1>
+    <h1>Welcome to Zaina Registration Page</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again </h1>
+   <h1> See You Again & Bye ~From Zaina </h1>
   
 </form>
